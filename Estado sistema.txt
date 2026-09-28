@@ -1,4 +1,4 @@
 Ejemplo registro del sistema 
 Sistema 
-Estado en revision 
-Observaciones: pendiente de prueba
+Estado Aprovado
+Observaciones: pruebaa realizadas correctamente 
